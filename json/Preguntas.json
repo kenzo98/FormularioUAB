@@ -9,7 +9,7 @@
       {
         "type": "text",
         "title": "2. Verdadero/Falso: Existe el lagarto con pajarita. ",
-        "answer": "Falso. Existe el lagarto con chorreras."
+        "answer": "Falso"
       },
       {
         "type": "select",
