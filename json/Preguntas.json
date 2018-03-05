@@ -34,7 +34,7 @@
       },
       {
         "type": "multiple",
-        "title": "5. Cuál de los siguientes animales no guarda relación con la informática",
+        "title": "5. ¿Cuál de los siguientes animales no guarda relación con la informática?",
         "option": [
           "Zorro",
           "Rinoceronte de Java",
@@ -85,23 +85,25 @@
       },
       {
         "type": "radio",
-        "title": "9. Selecciona de los siguientes animales cuál forma parte del logo de la facultad ",
+        "title": "9. Selecciona de los siguientes animales cuál forma parte del logo de la facultad: ",
         "option": [
           "Oso hormiguero",
           "Lemur",
-          "Perezoso",
+          "Oso perezoso",
           "Ornitorrinco"
-        ]
+        ],
+	"answer": "3"
       },
       {
         "type": "radio",
-        "title": "10. Cuál de las siguientes optativas se imparte en la carrera ",
+        "title": "10. ¿Cuál de las siguientes optativas se imparte en la carrera? ",
         "option": [
           "Anatomía del oso hormiguero",
           "El canto del jilguero",
           "Comidas preparadas y restauración",
           "Gusanos de seda y su cría en cajas de cartón"
-        ]
+        ],
+	"answer": "3"
       }
     ]
   }
