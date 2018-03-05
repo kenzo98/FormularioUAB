@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<questions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Preguntas.xsd">
+  
+  <question id='pregunta1'>
+    <type>text</type>
+    <title>Verdadero/Falso: Los pingüinos tienen rodillas.</title>
+    <answer>Verdadero</answer>
+  </question>
+
+  <question id='pregunta2'>
+    <type>text</type>
+    <title>Verdadero/Falso: Existe el lagarto con pajarita. </title>
+    <answer>Falso</answer>
+  </question>
+ 
+  <question id='pregunta3'>
+    <type>select</type>
+    <title>Califica la siguiente imagen según su nivel de monería: </title>
+    <option>Mejor a la gallega</option>
+    <option>Muy mono</option> 
+    <option>Ohhhhhhhh!</option>
+    <answer>3</answer> 
+  </question>
+
+  <question id='pregunta4'>
+  <type>select</type>
+    <title>Hércules, con 127 Kg, es uno de los perros más grandes del mundo, ¿de qué color era el bol donde le daban de comer sus dueños?</title>
+    <option>Azul</option>
+    <option>Verde</option> 
+    <option>Rojo</option>
+    <answer>2</answer> 
+  </question>
+
+  <question id='pregunta5'>
+    <type>multiple</type>
+    <title>Cuál de los siguientes animales no guarda relación con la informática</title>
+    <option>Zorro</option>
+    <option>Rinoceronte de Java</option> 
+    <option>Mono</option> 
+    <option>Cangrejo yeti</option>
+    <answer>3</answer>
+    <answer>4</answer>
+  </question>
+
+  <question id='pregunta6'>
+    <type>multiple</type>
+    <title>Marca cuáles de los siguientes títulos de películas no son reales: </title>
+    <option>El ataque del tiburón fantasma</option>
+    <option>Castores zombies</option> 
+    <option>El ataque de dinocroc</option>
+    <option>Sharkman</option> 
+    <option>Ovejas zombies</option>
+    <answer>3</answer>
+    <answer>5</answer>
+  </question>
+
+  <question id='pregunta7'>
+    <type>checkbox</type>
+    <title>Marca cuál de las siguientes no es una ballena: </title>
+    <option>Narval</option>
+    <option>Cansada</option> 
+    <option>Piloto</option> 
+    <option>Jorobada</option>
+    <answer>2</answer>
+  </question>
+  
+  <question id='pregunta8'>
+    <type>checkbox</type>
+    <title>Marca cuál de los siguientes no es un tipo de calamar: </title>
+    <option>Vampiro</option>
+    <option>Gigante</option> 
+    <option>Monstruoso</option> 
+    <option>Colosal</option>
+    <answer>3</answer>
+  </question>
+
+  <question id='pregunta9'>
+    <type>radio</type>
+    <title>Selecciona de los siguientes animales cuál forma parte del logo de la facultad </title>
+    <option>Oso hormiguero</option>
+    <option>Lemur</option>
+    <option>Perezoso</option>
+    <option>Ornitorrinco</option>
+    <answer>Perezoso</answer>
+  </question>
+
+
+  <question id='pregunta10'>
+    <type>radio</type>
+    <title>Cuál de las siguientes optativas no se imparte en la carrera </title>
+    <option>Anatomía del oso hormiguero</option>
+    <option>Piscicultura</option>
+    <option>Comidas preparadas y restauración</option>
+    <option>Toxicología</option>
+    <answer>Anatomía del oso hormiguero</answer>
+  </question>
+
+</questions>

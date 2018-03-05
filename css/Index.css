@@ -1,0 +1,98 @@
+body {
+	display: block;
+   	background-image: url("../img/patron1.jpg");
+   	background-repeat: repeat;
+   	background-size: 20%;
+   }
+
+title{
+	background-image: url("../img/logofactd.png");
+}
+
+div{
+	position: absolute;
+	width: 70%;	
+	display: block;
+	left:4%;
+	right:5%;
+	top:8%;
+	bottom: auto;
+	padding-left: 10%;
+	padding-right: 10%;
+	padding-bottom: 5%;
+	background-color: #d3ca47;
+	box-shadow: 25px 25px 80px rgba(0,0,1,1);
+	font-family: "Asap", Open Sans;
+	text-align: center;
+	color: #58594f;
+}
+
+#idioma {
+	display: inline-block;
+	position: relative;
+	color: #1b712a;
+	font-family: "Asap", Open Sans;
+	margin-top: 2%;
+	margin-bottom: 3%;
+}
+
+#idioma:hover {background-color: #3e8e41}
+
+.submit{
+
+	display: inline-block;
+	cursor: pointer;
+	color: #fff;
+  	background-color: #1b712a;
+  	border: none;
+  	border-radius: 15px;
+  	box-shadow: 4px 7px 6px #555453;
+  	font-family: "Amatic SC", Open Sans Condensed;
+  	font-size: 3vw;
+  	margin-right: 20px;
+  	margin-top: 10%;
+  	width: 20%;
+	
+}
+
+.submit:hover {background-color: #3e8e41}
+
+.submit:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #555453;
+  transform: translateY(4px);
+
+}
+
+
+h2 {
+	font-family: "Amatic SC", Open Sans Condensed;
+	text-align: left;
+	color: #58594f;
+	font-size: 4vw;
+	}
+
+p {
+	font-family: "Asap", Open Sans;
+	text-align: center;
+}
+
+span {
+	position: relative;
+	font-family: "Asap", Open Sans;
+	text-align: center;
+	color: #000000;
+	font-size: 0.5em;
+	bottom: -20px;
+
+}
+
+#facultad {
+	position: relative;
+	z-index: 1;
+	display: block;
+	width: 45%;
+	left: 26%;
+	top: 0px;
+	padding-top: 9%;
+}

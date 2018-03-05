@@ -1,0 +1,164 @@
+head{
+	
+
+}
+
+#cabecera {
+	position: relative;
+	z-index:0;
+	display: block;
+	font-size: 6vw;/*VW FUENTE RESPONSIVE*/
+	left: 0%;
+	font-family: "Amatic SC",Bold Open Sans Condensed;
+	text-align: left;
+	text-shadow: 1px 1px 3px #58594f;
+	color: #1b712a;
+	margin-bottom: -20%;
+	padding-top: 21%;
+	font-weight: bold;
+	
+
+
+}
+
+#info {
+	position: relative;
+	font-family: "Amatic SC",Bold Open Sans Condensed;
+	text-align: left;
+	font-size: 4vw;
+	left: 0%;
+	padding-top: 5%;
+	font-weight: bold;
+	color: #58594f;
+}
+
+#cronometro {
+	font-family: "Amatic SC",Bold Open Sans Condensed;
+	color: #1b712a;
+	font-size: 5vw;
+	top: 30px;
+	left: 600px;
+}
+
+#facultad {
+	position: relative;
+	z-index: 1;
+	display: block;
+	width: 40%;
+	left: 65%;
+	padding-top: 0%;
+	
+
+}
+
+body {
+	display: block;
+   	background-image: url("../img/patron1.jpg");
+   	background-repeat: repeat;
+   	background-size: 20%;
+}
+
+h2 {
+	font-family: "Amatic SC", Open Sans Condensed;
+	text-align: left;
+	color: #58594f;
+	font-size: 4vw;
+
+}
+
+p {
+	margin: 0;
+}
+
+.submit {
+	display: inline-block;
+	cursor: pointer;
+	color: #fff;
+  	background-color: #1b712a;
+  	border: none;
+  	border-radius: 15px;
+  	box-shadow: 4px 7px 6px #555453;
+  	font-family: "Amatic SC", Open Sans Condensed;
+  	font-size: 5vw;
+  	margin-left: 40%;
+  	margin-top: 10%;
+  	width: 25%;
+	
+}
+
+.submit:hover {background-color: #3e8e41}
+
+.submit:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #555453;
+  transform: translateY(4px);
+
+}
+
+.select {
+	font-family: "Amatic SC", Open Sans Condensed;
+  	font-size: 4vw;
+  	border-style: unset;
+}
+
+.text {
+	text-align: center;
+	font-family: "Amatic SC", Open Sans Condensed;
+	font-size: 4vw;
+}
+
+.multiple {
+
+    padding: 16px 20px;
+    border-style: unset;   
+    font-size: 4vw;
+    background-color: #f1f1f1; 
+    text-align: left;
+    border-color: #d3ca47;
+    font-family: "Amatic SC",Bold Open Sans Condensed;
+}
+
+#preguntas {
+	position: absolute;
+	display: block;
+	left:5%;
+	right:5%;
+	top:8%;
+	bottom: auto;
+	padding-left: 10%;
+	padding-right: 10%;
+	padding-bottom: 10%;
+	background-size: 100%;
+	background-color: #d3ca47;
+	font-family: "Amatic SC",Bold Open Sans Condensed;
+	text-align: left;
+	font-size: 4vw;
+	box-shadow: 25px 25px 80px rgba(0,0,1,1);
+	
+}
+
+.disabled {
+	font-family: "Amatic SC",Bold Open Sans Condensed;
+	text-align: left;
+	font-size: 3vw;
+
+
+}
+
+#pregunta1{
+	padding-top: 10%;
+
+}
+
+#pulpito {
+	position: relative;
+	display: block;
+	width: 40%;
+    background-color: #00AAA0;
+    border-radius: 8px;
+    text-align: center;
+    margin-bottom: 9%;
+    box-shadow: 7px 8px 20px #555453;
+}
+
+

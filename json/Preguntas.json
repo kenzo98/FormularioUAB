@@ -1,0 +1,108 @@
+{
+  "questions": {
+    "question": [
+      {
+        "type": "text",
+        "title": "1. Verdadero/Falso: Los pingüinos tienen rodillas.",
+        "answer": "Verdadero"
+      },
+      {
+        "type": "text",
+        "title": "2. Verdadero/Falso: Existe el lagarto con pajarita. ",
+        "answer": "Falso. Existe el lagarto con chorreras."
+      },
+      {
+        "type": "select",
+        "title": "3. Califica la siguiente imagen según su nivel de monería: ",
+		"image": "img/pulpito.jpg",
+        "option": [
+          "Mejor a la gallega",
+          "Muy mono",
+          "Ohhhhhhhh!"
+        ],
+        "answer": "3"
+      },
+      {
+        "type": "select",
+        "title": "4. Hércules, con 127 Kg, es uno de los perros más grandes del mundo, ¿de qué color era el bol donde le daban de comer sus dueños?",
+        "option": [
+          "Azul",
+          "Verde",
+          "Rojo"
+        ],
+        "answer": "2"
+      },
+      {
+        "type": "multiple",
+        "title": "5. Cuál de los siguientes animales no guarda relación con la informática",
+        "option": [
+          "Zorro",
+          "Rinoceronte de Java",
+          "Mono",
+          "Cangrejo yeti"
+        ],
+        "answer": [
+          "3",
+          "4"
+        ]
+      },
+      {
+        "type": "multiple",
+        "title": "6. Marca cuáles de los siguientes títulos de películas no son reales: ",
+        "option": [
+          "El ataque del tiburón fantasma",
+          "Castores zombies",
+          "El ataque de dinocroc",
+          "Sharkman",
+          "Ovejas zombies"
+        ],
+        "answer": [
+          "3",
+          "5"
+        ]
+      },
+      {
+        "type": "checkbox",
+        "title": "7. Marca cuál de las siguientes no es una ballena: ",
+        "option": [
+          "Narval",
+          "Cansada",
+          "Piloto",
+          "Jorobada"
+        ],
+        "answer": "2"
+      },
+      {
+        "type": "checkbox",
+        "title": "8. Marca cuál de los siguientes no es un tipo de calamar: ",
+        "option": [
+          "Vampiro",
+          "Gigante",
+          "Monstruoso",
+          "Colosal"
+        ],
+        "answer": "3"
+      },
+      {
+        "type": "radio",
+        "title": "9. Selecciona de los siguientes animales cuál forma parte del logo de la facultad ",
+        "option": [
+          "Oso hormiguero",
+          "Lemur",
+          "Perezoso",
+          "Ornitorrinco"
+        ]
+      },
+      {
+        "type": "radio",
+        "title": "10. Cuál de las siguientes optativas no se imparte en la carrera ",
+        "option": [
+          "Anatomía del oso hormiguero",
+          "Piscicultura",
+          "Comidas preparadas y restauración",
+          "Huevos"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+<?xml encoding="UTF-8"?>
+
+<!ELEMENT questions (question)+>
+<!ATTLIST questions
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT question (type,title,option*,answer*)>
+<!ATTLIST question
+  xmlns CDATA #FIXED ''
+  id NMTOKEN #REQUIRED>
+
+<!ELEMENT type (#PCDATA)>
+<!ATTLIST type
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT title (#PCDATA)>
+<!ATTLIST title
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT option (#PCDATA)>
+<!ATTLIST option
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT answer (#PCDATA)>
+<!ATTLIST answer
+  xmlns CDATA #FIXED ''>
