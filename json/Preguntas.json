@@ -95,12 +95,12 @@
       },
       {
         "type": "radio",
-        "title": "10. Cuál de las siguientes optativas no se imparte en la carrera ",
+        "title": "10. Cuál de las siguientes optativas se imparte en la carrera ",
         "option": [
           "Anatomía del oso hormiguero",
-          "Piscicultura",
+          "El canto del jilguero",
           "Comidas preparadas y restauración",
-          "Huevos"
+          "Gusanos de seda y su cría en cajas de cartón"
         ]
       }
     ]
