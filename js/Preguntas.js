@@ -2,7 +2,7 @@ var nota = 0; //nota sobre 10
 
 var alerta=false;
 
-var url = "https://rawgit.com/kenzo98/Formulario/master/json/Preguntas.json";
+var url = "json/Preguntas.json";
 var xhttp = new XMLHttpRequest();
 
 var nPreg;
